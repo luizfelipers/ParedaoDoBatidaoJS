@@ -1,6 +1,6 @@
 ﻿# ParedaoDoBatidaoJS
  
- Single page webapp, that displays random colors in a grid view, giving it a party led wall sensation when tested with a brazilian Funk background music.
+ Single page webapp, that displays random colors in a grid view, giving it a party led wall sensation when tested with a brazilian Funk background music. Coded purely in HTML, CSS and Javascript.
  
  Music Player to be implement onActive.
  Don't forget to listen to some cool music while using this.
